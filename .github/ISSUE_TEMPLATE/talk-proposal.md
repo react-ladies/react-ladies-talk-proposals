@@ -15,6 +15,10 @@ assignees: ''
 
 ### Your name (and pronouns)
 
+<-- Share your name and pronouns --> 
+
+- [ ] I'm a first time speaker! :sparkles:
+
 ### Location
 
 <!-- Please mention where you're based. -->
@@ -22,6 +26,10 @@ assignees: ''
 ### Contact Details
 
 <!-- We'll mostly use this issue for communication. But it might help to leave your Twitter, Github or Discord nickname (if you're in the React Ladies Discord.) Please note that this info will be public. -->
+
+### Anything else you'd like us to know
+
+<!-- If there's anything else you think we should know then feel free to include it here --> 
 
 ### Code of Conduct
 
