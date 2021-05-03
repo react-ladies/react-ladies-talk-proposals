@@ -15,7 +15,7 @@ assignees: ''
 
 ### Your name (and pronouns)
 
-<-- Share your name and pronouns --> 
+<!-- Share your name and pronouns --> 
 
 - [ ] I'm a first time speaker! :sparkles:
 
